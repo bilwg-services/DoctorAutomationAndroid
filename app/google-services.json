@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1088745552380",
+    "firebase_url": "https://projectalphadev-ce0e6.firebaseio.com",
+    "project_id": "projectalphadev-ce0e6",
+    "storage_bucket": "projectalphadev-ce0e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088745552380:android:c438e126a21a30ec685a79",
+        "android_client_info": {
+          "package_name": "com.bilwg.doctorautomation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088745552380-11frt6n70f2o3e9mslmbct05qa26o27o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bilwg.doctorautomation",
+            "certificate_hash": "8008669de7ab7f1d2826f7abfc62e55cec4df163"
+          }
+        },
+        {
+          "client_id": "1088745552380-mlo3q1ugi11ch2pk4l9jak64ccui5hb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAUL4eIsqWo2hqIoPeUAydSiwYU7nNX7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088745552380-mlo3q1ugi11ch2pk4l9jak64ccui5hb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
