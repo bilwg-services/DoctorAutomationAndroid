@@ -1,43 +1,118 @@
 {
   "project_info": {
-    "project_number": "1088745552380",
-    "firebase_url": "https://projectalphadev-ce0e6.firebaseio.com",
-    "project_id": "projectalphadev-ce0e6",
-    "storage_bucket": "projectalphadev-ce0e6.appspot.com"
+    "project_number": "830347415063",
+    "firebase_url": "https://doctor-bilwg.firebaseio.com",
+    "project_id": "doctor-bilwg",
+    "storage_bucket": "doctor-bilwg.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1088745552380:android:c438e126a21a30ec685a79",
+        "mobilesdk_app_id": "1:830347415063:android:a392892eb9234d18c9d652",
         "android_client_info": {
           "package_name": "com.bilwg.doctorautomation"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1088745552380-11frt6n70f2o3e9mslmbct05qa26o27o.apps.googleusercontent.com",
+          "client_id": "830347415063-n2poe10tj8ktokc55ntp7m16jtbu13i1.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.bilwg.doctorautomation",
-            "certificate_hash": "8008669de7ab7f1d2826f7abfc62e55cec4df163"
+            "certificate_hash": "9c75356530b773bd4921816ea1143026481a44a4"
           }
         },
         {
-          "client_id": "1088745552380-mlo3q1ugi11ch2pk4l9jak64ccui5hb1.apps.googleusercontent.com",
+          "client_id": "830347415063-6847lt6q0r4mbdege8loelbehp2a3c2m.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBAUL4eIsqWo2hqIoPeUAydSiwYU7nNX7Q"
+          "current_key": "AIzaSyAz3xPxWRoD3d-QudAgBXKNWsRaTtdMphg"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1088745552380-mlo3q1ugi11ch2pk4l9jak64ccui5hb1.apps.googleusercontent.com",
+              "client_id": "830347415063-6847lt6q0r4mbdege8loelbehp2a3c2m.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "830347415063-s00suklqtru4f3vi0i82ce5s97mgdbfu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bilwg.health.user.healthUser"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830347415063:android:a190bdc443bcfe16c9d652",
+        "android_client_info": {
+          "package_name": "com.bilwg.health.user.healthUser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830347415063-80npjsmpda3rr19ushuqukldokm9enaq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bilwg.health.user.healthUser",
+            "certificate_hash": "14032ce5f75ed53a4348a572ffae64604fff6a30"
+          }
+        },
+        {
+          "client_id": "830347415063-8d8uhtq3o8kq08asvgg494lrsqitn2oa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bilwg.health.user.healthUser",
+            "certificate_hash": "554ddc0ac1b279046a91cffe0cf3928f82ce6977"
+          }
+        },
+        {
+          "client_id": "830347415063-c1mjuiosmomonl8qe07u8r2e4bq7os0p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bilwg.health.user.healthUser",
+            "certificate_hash": "f0e141aa5cf3be1c719978dd53fb732eea0e04fb"
+          }
+        },
+        {
+          "client_id": "830347415063-vfo6mojperk7kdh33tmpa907ieuttef7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bilwg.health.user.healthUser",
+            "certificate_hash": "41bc40e9fb1bc52956381c63fe03354eee8a5def"
+          }
+        },
+        {
+          "client_id": "830347415063-6847lt6q0r4mbdege8loelbehp2a3c2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz3xPxWRoD3d-QudAgBXKNWsRaTtdMphg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830347415063-6847lt6q0r4mbdege8loelbehp2a3c2m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "830347415063-s00suklqtru4f3vi0i82ce5s97mgdbfu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bilwg.health.user.healthUser"
+              }
             }
           ]
         }
