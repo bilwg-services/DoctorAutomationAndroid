@@ -15,11 +15,11 @@
       },
       "oauth_client": [
         {
-          "client_id": "830347415063-n2poe10tj8ktokc55ntp7m16jtbu13i1.apps.googleusercontent.com",
+          "client_id": "830347415063-ebvodteq66okha8aqqftuffkvtrn5slf.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.bilwg.doctorautomation",
-            "certificate_hash": "9c75356530b773bd4921816ea1143026481a44a4"
+            "certificate_hash": "27638ed688cba729dfd0ffac266b7405376203e2"
           }
         },
         {
