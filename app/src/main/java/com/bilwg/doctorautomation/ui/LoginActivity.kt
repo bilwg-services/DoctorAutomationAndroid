@@ -29,6 +29,10 @@ class LoginActivity : AppCompatActivity(), LoginCallback {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        if(authService.isLoggedIn){
+            startActivity(Intent(this, MainActivity::class.java))
+            this.finish()
+        }
         binding = ActivityLoginBinding.inflate(layoutInflater)
         setContentView(binding.root)
 

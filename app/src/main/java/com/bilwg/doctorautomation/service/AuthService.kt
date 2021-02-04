@@ -15,6 +15,8 @@ class AuthService(private val loginCallback: LoginCallback) {
     private val firebaseAuth = FirebaseAuth.getInstance()
     private val db = FirebaseFirestore.getInstance()
 
+    val isLoggedIn = firebaseAuth.currentUser != null
+
     fun loginWithEmail(email: String, password: String) {
         firebaseAuth.signInWithEmailAndPassword(email, password).addOnSuccessListener {
             val user = it.user
